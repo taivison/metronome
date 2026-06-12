@@ -1,4 +1,4 @@
-# Metronomo
+# Metronome
 
 A command-line metronome written in Rust.
 
